@@ -146,7 +146,7 @@ void main()
 {
  int ch,val;
  clrscr();
- printf("**************RED BLACK TREE INSERTION PROGRAM******");
+ printf("**************RED BLACK TREE INSERTION PROGRAM*******");
  while(1)
  {
  printf("\n1.Insert\n2.Display\n3.Exit\nEnter choice : ");
