@@ -5,8 +5,7 @@ struct node
     int data;  
     struct node *next;   
 };  
-struct node *head;  
-  
+struct node *head;    
 void beginsert ();   
 void lastinsert ();  
 void randominsert();  
